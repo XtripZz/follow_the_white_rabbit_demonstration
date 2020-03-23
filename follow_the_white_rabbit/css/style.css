@@ -1,0 +1,12 @@
+body {
+    background: black;
+}
+
+.out {
+    font-size: 32px;
+    font-family: monospace;
+    font-weight: bold;
+    color: rgb(97, 255, 163);
+    background: inherit;
+    margin: 50px 0 0 0;
+}
